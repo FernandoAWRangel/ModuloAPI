@@ -10,8 +10,9 @@
 4. Estrutura do Projeto
 5. Configuração do Projeto
 6. Criando um Novo Controller
-7. Executando a API
-8. Testando a API
-9. Adicionando Documentação e Melhorias
+7. Conhecendo o ambiente Swagger
+8. Executando a API
+9. Testando a API
+10. Adicionando Documentação e Melhorias
 
 
