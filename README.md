@@ -7,12 +7,17 @@
 - Instalação Editor de Código
 - Instalação do SqlExpress e SqlServer
 3 Criação do Projeto
+  - Executando o comando dotnet new webapi -n ModuloAPI no cmd(Prompt de Comando.)
 4. Estrutura do Projeto
 5. Configuração do Projeto
-6. Criando um Novo Controller
-7. Conhecendo o ambiente Swagger
-8. Executando a API
-9. Testando a API
-10. Adicionando Documentação e Melhorias
+  - Configurando projeto na classe Program.cs
+6. Criando uma nova Controller
+  - ContatoController
+  - UsuarioController
+7. Executando a API
+  - Executando o comando dotnet watch run
+8. Testando a API
+  - Utilizando o Swagger
+9. Adicionando Documentação e Melhorias
 
 
