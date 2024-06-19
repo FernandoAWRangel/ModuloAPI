@@ -11,7 +11,7 @@ namespace ModuloAPI.Controllers
     [ApiController]
     [Route("[controller]")]
     public class ContatoController : ControllerBase
-    {
+    {        
         private readonly AgendaContext _context;
         public ContatoController(AgendaContext context)
         {
